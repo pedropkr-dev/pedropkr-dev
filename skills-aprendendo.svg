@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="48" viewBox="0 0 170 48"><g transform="translate(6,0)"><title>SQL</title><rect width="48" height="48" rx="10" fill="#242938"/>
+  <g fill="none" stroke="#5AA9E6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="24" cy="14" rx="11" ry="4.2"/>
+    <path d="M13 14 V34 C13 36.3 17.9 38.2 24 38.2 S35 36.3 35 34 V14"/>
+    <path d="M13 24 C13 26.3 17.9 28.2 24 28.2 S35 26.3 35 24"/>
+  </g></g><g transform="translate(64,0)"><title>Power BI</title><rect width="48" height="48" rx="10" fill="#242938"/>
+  <rect x="11.5" y="26" width="7" height="12" rx="2" fill="#F6D14A"/>
+  <rect x="20.5" y="18" width="7" height="20" rx="2" fill="#F2B90F"/>
+  <rect x="29.5" y="9" width="7" height="29" rx="2" fill="#E59500"/></g><g transform="translate(122,0)"><title>pandas</title><rect width="48" height="48" rx="10" fill="#242938"/>
+  <g transform="translate(10,10) scale(1.1667)">
+    <g fill="#FFFFFF">
+      <rect x="16.922" y="0" width="2.623" height="18.104"/>
+      <rect x="12.796" y="5.903" width="2.623" height="5.446"/>
+      <rect x="12.796" y="17.1" width="2.623" height="5.446"/>
+      <rect x="4.456" y="5.896" width="2.622" height="18.104"/>
+      <rect x="8.669" y="12.606" width="2.623" height="5.447"/>
+      <rect x="8.669" y="1.419" width="2.623" height="5.446"/>
+    </g>
+    <rect x="12.796" y="12.94" width="2.623" height="2.57" fill="#FFCA00"/>
+    <rect x="8.669" y="8.455" width="2.623" height="2.57" fill="#E70488"/>
+  </g></g></svg>
