@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner clicável. Quando seu portfólio estiver no ar, troque o link abaixo pelo endereço dele. -->
-<a href="https://www.linkedin.com/in/SEU-PERFIL">
+<a href="https://www.linkedin.com/in/pedro-guilherme-b86804240">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2B46,100:0B7285&height=200&section=header&text=Pedro%20Guilherme&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Dados%20%E2%80%A2%20SQL%20%E2%80%A2%20Desenvolvimento%20de%20Software&descSize=20&descAlignY=60" alt="Pedro Guilherme" width="100%" />
 </a>
 
@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/SEU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/pedro-guilherme-b86804240"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <a href="https://github.com/pedropkr-dev?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
 
