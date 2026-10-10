@@ -93,17 +93,6 @@ Dica: se tiver uma imagem do projeto (um print da tela), salve no repositório e
 -->
 
 
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pedropkr-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropkr-dev&layout=compact&theme=dracula&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
-
-<img src="https://streak-stats.demolab.com/?user=pedropkr-dev&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-
-</div>
-
 ---
 
 <div align="center">
