@@ -19,7 +19,7 @@
 
 </div>
 
----
+
 
 ## 🧑‍💻 Quem sou eu?
 
@@ -43,7 +43,7 @@ class QuemSouEu:
         return ["Construir carreira em dados", "Evoluir o inglês"]
 ```
 
----
+
 
 ## 👇 Projeto atual
 
@@ -51,9 +51,8 @@ Estou desenvolvendo o backend do **Aratu**, um sistema de gestão de frota (soli
 
 **Stack do projeto:** React · Node.js · PostgreSQL
 
-**Meu papel:** backend em Node.js com Express
 
----
+
 
 ## 🛠️ Skills
 
@@ -69,7 +68,7 @@ Estou desenvolvendo o backend do **Aratu**, um sistema de gestão de frota (soli
 
 <sub>Node.js · Express · JavaScript · SQL · Power BI · pandas</sub>
 
----
+
 
 ## 🖥️ Projetos
 
@@ -93,7 +92,7 @@ Dica: se tiver uma imagem do projeto (um print da tela), salve no repositório e
 </a>
 -->
 
----
+
 
 ## 📊 Estatísticas
 
@@ -109,7 +108,7 @@ Dica: se tiver uma imagem do projeto (um print da tela), salve no repositório e
 
 <div align="center">
 
-*Obrigado pela visita. Bons códigos!* 😊
+*Obrigado pela visita. Bons códigos!* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2B46,100:0B7285&height=100&section=footer" alt="" width="100%" />
 
