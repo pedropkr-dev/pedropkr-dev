@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner clicável (ideia do vaaski). Quando seu portfólio estiver no ar, troque o link abaixo pelo endereço dele. -->
+<!-- Banner clicável. Quando seu portfólio estiver no ar, troque o link abaixo pelo endereço dele. -->
 <a href="https://www.linkedin.com/in/SEU-PERFIL">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2B46,100:0B7285&height=200&section=header&text=Pedro%20Guilherme&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Dados%20%E2%80%A2%20SQL%20%E2%80%A2%20Desenvolvimento%20de%20Software&descSize=20&descAlignY=60" alt="Pedro Guilherme" width="100%" />
 </a>
@@ -18,14 +18,6 @@
 <img src="https://komarev.com/ghpvc/?username=pedropkr-dev&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="Visualizações do perfil" />
 
 </div>
-
----
-
-## 👋 Olá, pessoal!
-
-Que bom ter você por aqui. Sou o **Pedro**, estudante de **Ciência da Computação na UNIT (Aracaju, SE)**, de olho em **dados e desenvolvimento de software**.
-
-Quer trocar uma ideia sobre dados, Java ou carreira? Me chame no [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) ou [abra uma issue aqui](https://github.com/pedropkr-dev/pedropkr-dev/issues/new).
 
 ---
 
@@ -57,7 +49,9 @@ class QuemSouEu:
 
 Estou desenvolvendo o backend do **Aratu**, um sistema de gestão de frota (solicitação e aprovação de veículos, agenda, cadastro de motoristas e rotas) para um cliente da área da saúde, na disciplina Residência de Software III.
 
-**Stack:** React · Node.js · PostgreSQL
+**Stack do projeto:** React · Node.js · PostgreSQL
+
+**Meu papel:** backend em Node.js com Express
 
 ---
 
@@ -91,8 +85,8 @@ Estou desenvolvendo o backend do **Aratu**, um sistema de gestão de frota (soli
 
 <!--
 Conforme você subir os outros projetos, adicione um cartão para cada um, no mesmo formato (troque NOME-DO-REPO).
-Dica: se tiver uma imagem do projeto (um print da tela), salve em uma pasta "assets" e use no lugar do cartão:
-<a href="https://github.com/pedropkr-dev/NOME-DO-REPO"><img src="assets/nome-do-projeto.png" alt="Nome do projeto" width="420" /></a>
+Dica: se tiver uma imagem do projeto (um print da tela), salve no repositório e use no lugar do cartão:
+<a href="https://github.com/pedropkr-dev/NOME-DO-REPO"><img src="nome-do-projeto.png" alt="Nome do projeto" width="420" /></a>
 
 <a href="https://github.com/pedropkr-dev/NOME-DO-REPO">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedropkr-dev&repo=NOME-DO-REPO&theme=dracula&hide_border=true&locale=pt-br" alt="NOME-DO-REPO" />
