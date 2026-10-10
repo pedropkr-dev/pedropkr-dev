@@ -108,7 +108,7 @@ Dica: se tiver uma imagem do projeto (um print da tela), salve no repositório e
 
 <div align="center">
 
-*Obrigado pela visita. Bons códigos!* 
+*Obrigado pela visita!* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2B46,100:0B7285&height=100&section=footer" alt="" width="100%" />
 
