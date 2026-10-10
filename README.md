@@ -37,7 +37,7 @@ class QuemSouEu:
     hobbies = ["Boxe", "Games"]
 
     def objetivo(self):
-        return "Estágio em dados/BI ou desenvolvimento, em regime remoto"
+        return "Estágio em dados/BI ou desenvolvimento"
 
     def ambicoes(self):
         return ["Construir carreira em dados"]
