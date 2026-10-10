@@ -40,7 +40,7 @@ class QuemSouEu:
         return "Estágio em dados/BI ou desenvolvimento, em regime remoto"
 
     def ambicoes(self):
-        return ["Construir carreira em dados", "Evoluir o inglês"]
+        return ["Construir carreira em dados"]
 ```
 
 
