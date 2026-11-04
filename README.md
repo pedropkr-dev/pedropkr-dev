@@ -9,8 +9,8 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/pedro-guilherme-b86804240"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+
+<a href="mailto:pedropkr3@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <a href="https://github.com/pedropkr-dev?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
 
 <br/><br/>
