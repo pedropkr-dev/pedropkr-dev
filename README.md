@@ -68,36 +68,14 @@ Estou desenvolvendo o backend do **Aratu**, um sistema de gestão de frota (soli
 
 <sub>Node.js · Express · JavaScript · SQL · Power BI · pandas</sub>
 
-
-
 ## 🖥️ Projetos
 
-<div align="center">
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [**POS-System**](https://github.com/pedropkr-dev/POS-System) | Sistema de frente de loja (PDV) desktop, com arquitetura em camadas (Model, DAO, Service e View) e persistência própria em arquivos CSV, sem banco de dados. | Java, Swing |
+| [**Its-Time**](https://github.com/pedropkr-dev/Its-Time) | Backend (API REST) do It's Time, aplicativo web de rotina gamificada, com camadas de controller e service. | Java, Spring Boot, JPA |
+| [**Medidas-de-Dispersao**](https://github.com/pedropkr-dev/Medidas-de-Dispersao) | Aplicativo desktop que calcula medidas de tendência central e dispersão para dados brutos e tabelas de frequência, com gráficos. Projeto de Estatística, em equipe. | Python, Tkinter, matplotlib |
 
-<a href="https://github.com/pedropkr-dev/POS-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedropkr-dev&repo=POS-System&theme=dracula&hide_border=true&locale=pt-br" alt="POS-System" />
-</a>
-
-</div>
-
-**POS-System:** sistema de frente de loja (PDV) desktop em Java Swing, com arquitetura em camadas (Model, DAO, Service e View) e persistência própria em arquivos CSV, sem banco de dados.
-
-<!--
-Conforme você subir os outros projetos, adicione um cartão para cada um, no mesmo formato (troque NOME-DO-REPO).
-Dica: se tiver uma imagem do projeto (um print da tela), salve no repositório e use no lugar do cartão:
-<a href="https://github.com/pedropkr-dev/NOME-DO-REPO"><img src="nome-do-projeto.png" alt="Nome do projeto" width="420" /></a>
-
-<a href="https://github.com/pedropkr-dev/NOME-DO-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedropkr-dev&repo=NOME-DO-REPO&theme=dracula&hide_border=true&locale=pt-br" alt="NOME-DO-REPO" />
-</a>
--->
-
-
----
-
-<div align="center">
-
-*Obrigado pela visita!* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2B46,100:0B7285&height=100&section=footer" alt="" width="100%" />
 
